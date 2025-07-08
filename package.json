@@ -1,0 +1,17 @@
+{
+  "name": "project-backend",
+  "version": "1.0.0",
+  "description": "A Backend at Chai Aur Code channel",
+  "keywords": [
+    "js",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "hitesh , ram",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
